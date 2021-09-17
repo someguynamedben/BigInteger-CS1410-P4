@@ -1,1 +1,2 @@
-# BigInteger-CS1410-P4
+# Big Integer
+Stores and handles arbitrarily large numbers
